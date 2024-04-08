@@ -9,9 +9,9 @@ How to Play:
 5. Enjoy the CLI adventure and see if you can recruit the genius developer to Google team.
 
 
-In this CLI game, a challenge we embrace,
-To recruit the genius, to win the race.
-So let's embark, with spirits high,
+In this CLI game, a challenge we embrace,<br>
+To recruit the genius, to win the race.<br>
+So let's embark, with spirits high,<br>
 In this adventure, knowledge we apply.
 
 GOOD LUCK!!!
